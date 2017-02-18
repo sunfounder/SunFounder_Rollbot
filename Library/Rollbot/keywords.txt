@@ -1,0 +1,58 @@
+#######################################
+# Syntax Coloring Map For Rollman
+#######################################
+Rollbot				KEYWORD1
+#######################################
+# Datatypes (KEYWORD1) 
+####################################### 
+RollbotMotors			KEYWORD2 
+RollbotOLED			KEYWORD2 
+RollbotLED			KEYWORD2 
+RollbotBuzzer			KEYWORD2 
+RollbotButton			KEYWORD2 
+RollbotReadSensor		KEYWORD2 
+#######################################
+# Methods and Functions (KEYWORD2) 
+#######################################
+ 
+Motordrive			KEYWORD3
+Motorstop			KEYWORD3
+MotorSetSpeed			KEYWORD3
+DataOut				KEYWORD3
+OLED_Init			KEYWORD3
+IIC_SetPos			KEYWORD3
+ShowCN_3216			KEYWORD3
+ShowCN_1616			KEYWORD3
+ShowCN_168			KEYWORD3
+SelectFace			KEYWORD3
+ShowPIC				KEYWORD3
+Clear_Screen			KEYWORD3
+Clear_NumDisplay		KEYWORD3
+Follow_NumDisplay		KEYWORD3
+Fill_Screen			KEYWORD3
+NumDisplay			KEYWORD3
+PowerDisplay			KEYWORD3
+DownloadDisplay			KEYWORD3
+SignalDisplay			KEYWORD3
+BluetoothDisplay		KEYWORD3
+OLED_SignalDisplay		KEYWORD3
+Button_Display			KEYWORD3
+Button_DisplayMaze		KEYWORD3
+DisplayMaze			KEYWORD3
+OLED_Display			KEYWORD3
+WriteCommand			KEYWORD3
+WriteData			KEYWORD3
+MiniBuzzer			KEYWORD3
+Read_Data			KEYWORD3
+Read_MazeFlag			KEYWORD3
+Read_BlackFlag			KEYWORD3
+Read_WhiteFlag			KEYWORD3
+ThresholdCheck			KEYWORD3
+ButtonMaze			KEYWORD3
+ButtonNewMaze			KEYWORD3
+Button				KEYWORD3
+Data_Print			KEYWORD3
+#######################################
+# Constants (LITERAL1), keyword of constant type
+#######################################
+ 
